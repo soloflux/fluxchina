@@ -4,11 +4,16 @@
 team background
 The team itself has an average experience of 6 year in different projects development. Among us there are former and/or active workers of Infopulse, Amnet, Bizantium, TV Channels, Provectus, Ambisafe, Axon, Deloitte, and much more trusted companies
 
-### 2. team size
+### 2. Team size
 Core team is 12 persons
 20-25 contractors
 
+<br>
+<br>
+<br>
+<br>
 
+![image](https://github.com/soloflux/fluxchina/blob/master/image/WechatIMG30.png)
 
 ### Profile:
 1. project intro
@@ -17,6 +22,6 @@ FLUX is a first monetization protocol in gaming industry, that allows players an
 FLUX charges a commission for matchmaking sessions and trading of digital assets.
 3. development progress
 Project is currently in Alpha stage, mobile app in MVP. 
-4. contract address
-https://etherscan.io/token/0x282eaf0c93b535731c1a2ef26a568e6131980c4a
-5.business model and flow chart
+4. contract address<br>
+https://etherscan.io/token/0x282eaf0c93b535731c1a2ef26a568e6131980c4a<br>
+5. business model and flow chart
