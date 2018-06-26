@@ -1,15 +1,16 @@
+![image](https://github.com/soloflux/fluxchina/blob/master/image/WechatIMG24.png)
 
-
-
-1. Team Overview:
+### 1. Team Overview:
 team background
 The team itself has an average experience of 6 year in different projects development. Among us there are former and/or active workers of Infopulse, Amnet, Bizantium, TV Channels, Provectus, Ambisafe, Axon, Deloitte, and much more trusted companies
 
-2. team size
+### 2. team size
 Core team is 12 persons
 20-25 contractors
 
-Profile:
+
+
+### Profile:
 1. project intro
 FLUX is a first monetization protocol in gaming industry, that allows players and developers benefit through different gaming activities, as well as streamers, traders, investors.
 2. revenue model
